@@ -77,6 +77,7 @@ npm run build
 └── vite.config.ts       # Configuration de Vite
 ```
 
-<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/80d2f542-a501-4d57-b4ad-db09b412517d" />
+<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/6b480bc5-d479-4d5d-b910-2498690dec6f" />
+
 
 
